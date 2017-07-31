@@ -1,0 +1,14 @@
+{
+  "name": "PublishRandomData",
+  "version": "1.0.0",
+  "description": "This app publishes random temperature data to the cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krishna chaitanya B",
+  "license": "ISC",
+  "dependencies": {
+    "ibmiotf": "^0.2.38"
+  }
+}

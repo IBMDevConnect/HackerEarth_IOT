@@ -1,0 +1,7 @@
+{
+  "org": "your org",
+  "type": "device type",
+  "id": "device id",
+  "auth_method" : "token",
+  "auth_token" : "your auth token"
+}
